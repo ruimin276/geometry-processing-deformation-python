@@ -1,3 +1,9 @@
+.polyscope.ini
+
+# Poetry
+poetry.lock
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/macos,python,visualstudiocode,pycharm
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,visualstudiocode,pycharm
 
@@ -320,6 +326,7 @@ poetry.toml
 pyrightconfig.json
 
 ### VisualStudioCode ###
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
